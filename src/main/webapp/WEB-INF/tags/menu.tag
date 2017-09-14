@@ -9,7 +9,7 @@
         <div class="navbar-header">
             <a class="navbar-brand" href="<spring:url value="/" htmlEscape="true" />"><span></span></a>
             <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
-                <span class="sr-only"><os-p>Toggle navigation</os-p></span>
+                <span class="sr-only"><ol-p>Toggle navigation</ol-p></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>

@@ -8,8 +8,7 @@
 <html>
 <petclinic:htmlHeader/>
 
-<body>
-<petclinic:bodyHeader menuName="${pageName}"/>
+<%--<petclinic:bodyHeader menuName="${pageName}"/>--%>
 
 <div class="container-fluid">
     <div class="container xd-container">
