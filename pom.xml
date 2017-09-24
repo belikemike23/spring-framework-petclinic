@@ -451,7 +451,7 @@
                 <jdbc.driverClassName>com.mysql.jdbc.Driver</jdbc.driverClassName>
                 <jdbc.url>jdbc:mysql://localhost:3306/springdemo?useUnicode=true</jdbc.url>
                 <jdbc.username>root</jdbc.username>
-                <jdbc.password>23412169Oo</jdbc.password>
+                <jdbc.password></jdbc.password>
             </properties>
             <dependencies>
                 <dependency>
